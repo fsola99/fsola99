@@ -2,13 +2,18 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and learning new technologies.
 
+## What I’m Working On
+
+- Building tools to collect and process cybersecurity vulnerability information, with a focus on data integration from NIST sources.
+- Backend development using Django and Python.
+- Contributing to a core library of APIs in my current company, supporting platform-wide integration and scalability.
+
 ## About Me
 
-- 🔭 I’m currently working on two projects. First, a private project for my current company. It’s a Django-based platform acting as a wiki, where analysts add cybersecurity-related news and data about new malware and threat actors. Second, I’m working on the backend of ComparanGo, a research project for my university, Universidad Argentina de la Empresa (UADE). It’s a platform where users can compare different vehicles, highlighting the characteristics of each one.
-- 🌱 ’m currently learning Python (primarily working with Django) and NodeJS.
+- 🌱 I’m currently learning Python (primarily working with Django).
 - 💬 Ask me anything about my open-source projects — I’m here to learn!
 - 📫 How to reach me: fdrcsola@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/solafederico/).
-- ⚡ Fun fact: I’m a huge fan of Boca Juniors and a new enthusiast in the Formula 1 world.
+- ⚡ Fun fact: I’m a huge music enthusiast, a fan of Boca Juniors and a new enthusiast in the Formula 1 world.
 
 ## Skills
 
@@ -22,7 +27,7 @@ Here are some of my notable projects:
 
 ### [Concert Memories](https://github.com/fsola99/Concert-Memories)
 
-Concert Memories is a web platform dedicated to sharing memories of live music concerts. This project was created as the final deliverable for the Python course at Coderhouse and was inspired by my passion for music.
+Concert Memories is a web platform dedicated to sharing memories of live music concerts. This project was created as the final deliverable for the Python course at Coderhouse and was inspired by my personal passion for live music experiences.
 
 ### [Sistema de Administración de Consorcios](https://github.com/fsola99/Sistema-Administracion-Consorcios)
 
