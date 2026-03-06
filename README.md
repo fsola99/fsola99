@@ -1,46 +1,52 @@
-# Greetings! I'm Federico 👋
+# Hi there, I'm Federico 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and learning new technologies.
+Software developer with hands-on experience in **Python** and **Django REST Framework**, specializing in backend development within cybersecurity environments. I'm passionate about clean code, efficient solutions, and continuous learning.
 
-## What I’m Working On
+## 🎯 Professional Focus
 
-- Building tools to collect and process cybersecurity vulnerability information, with a focus on data integration from NIST sources.
-- Backend development using Django and Python.
-- Contributing to a core library of APIs in my current company, supporting platform-wide integration and scalability.
+- **Backend Development**: Building robust web platforms using Python and Django REST Framework
+- **API Design & Implementation**: Custom endpoints, business logic, and data modeling
+- **System Optimization**: Performance improvements, refactoring, and scalable architecture
+- **Cybersecurity Data Integration**: Processing and analyzing vulnerability and TTP information from authoritative sources, such as NIST or MITRE.
+- **CI/CD & Automation**: Docker containerization and automated testing pipelines
 
-## About Me
+## 💼 Technical Expertise
 
-- 🌱 I’m currently learning Python (primarily working with Django).
-- 💬 Ask me anything about my open-source projects — I’m here to learn!
-- 📫 How to reach me: fdrcsola@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/solafederico/).
-- ⚡ Fun fact: I’m a huge music enthusiast, a fan of Boca Juniors and a new enthusiast in the Formula 1 world.
+**Languages**: Python, C/C++, C#, SQL, JavaScript, TypeScript, HTML, CSS
 
-## Skills
+**Frameworks & Libraries**: Django, Django REST Framework, .NET, Bootstrap, Tailwind, BeautifulSoup4
 
-- **Languages:** Python, C/C++, C#, SQL, JavaScript, HTML, and CSS.
-- **Frameworks:** Django, .NET, Bootstrap, and Tailwind.
-- **Tools:** MySQL, Power BI, and Git (duh 😂).
+**Tools & Technologies**: 
+- Version Control: Git/GitHub
+- Databases: MySQL, SQL Server
+- DevOps: Docker, CircleCI
+- Analytics: Power BI
+- Testing: Python unittest, automated test suites
 
-## Projects
+## 🚀 Recent Work
 
-Here are some of my notable projects:
+Currently focused on backend platform development with emphasis on:
+- Creating and refining API endpoints using Django REST Framework
+- Implementing comprehensive test coverage
+- Optimizing database queries and system performance
+- Building reusable components and shared libraries
+- Integrating external data sources and APIs
+
+## 📚 Featured Projects
+
+### [Predibot](https://github.com/fsola99/predibot)
+Prediction bot with active development in algorithmic analysis and market data integration. Focused on clean architecture and parameter optimization.
 
 ### [Concert Memories](https://github.com/fsola99/Concert-Memories)
-
-Concert Memories is a web platform dedicated to sharing memories of live music concerts. This project was created as the final deliverable for the Python course at Coderhouse and was inspired by my personal passion for live music experiences.
-
-### [Sistema de Administración de Consorcios](https://github.com/fsola99/Sistema-Administracion-Consorcios)
-
-A database creation project in SQL for a Consortium Management System.
+Full-stack web platform for sharing live music experiences. Demonstrates end-to-end development from design through deployment.
 
 ### [LoL-Spy](https://github.com/fsola99/lol-spy)
+Discord bot built with Python that monitors when friends are in-game. Demonstrates real-time event integration and bot development with Discord API.
 
-LoL-Spy is a Discord bot that alerts you whenever one of your friends is currently playing a game of League of Legends.
+## 🔗 Connect With Me
 
-## GitHub Stats
+- **Email**: fdrcsola@gmail.com
+- **LinkedIn**: [linkedin.com/in/solafederico](https://www.linkedin.com/in/solafederico/)
+- **Location**: Buenos Aires, Argentina
 
-![fsola99's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsola99&show_icons=true&theme=radical)
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/solafederico/)
+---
