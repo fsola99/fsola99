@@ -17,13 +17,13 @@ git config --global user.education "UADE"
 git config --global user.localisation "Buenos Aires, Argentina"
 ```
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/fsola99/count.svg" alt="Profile Counter" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github.com/fsola99/profile-3d-contrib/blob/main/profile-green-animate.svg" width="800" alt="3D Contribution Graph" />
-</p>
+![fsola99's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsola99&show_icons=true&theme=default)
+
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsola99&layout=compact)
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Coding GIF" />
